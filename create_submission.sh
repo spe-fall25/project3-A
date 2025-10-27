@@ -5,4 +5,4 @@ make clean
 cd ../render/
 make clean
 cd ../
-tar -czvf asst3.tar.gz saxpy scan render
+tar -czvf proj3-A.tar.gz saxpy scan render
